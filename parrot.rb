@@ -10,4 +10,6 @@ def parrot
   motto = "Squawk!"
 end
 
-def 
+def parrot
+  puts "Squawk!"
+  return 
