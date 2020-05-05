@@ -12,6 +12,6 @@ end
 
 def parrot
   puts "Squawk!"
-  return "Pretty bird!"
   motto = "Squawk!"
+  return
 end
