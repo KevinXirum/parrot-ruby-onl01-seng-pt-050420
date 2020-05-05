@@ -5,6 +5,7 @@ def parrot
   puts "Squawk!"
 end
 
-def phrase
+def parrot
   puts "Squawk!"
+  motto 
 end
