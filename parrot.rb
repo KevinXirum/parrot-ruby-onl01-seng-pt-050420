@@ -11,7 +11,6 @@ def parrot
 end
 
 def parrot
-  puts "Squawk!"
+  puts "Squawk! Pretty Bird"
   motto = "Squawk!"
-  "Pretty bird!"
 end
