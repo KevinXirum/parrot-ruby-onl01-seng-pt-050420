@@ -10,6 +10,3 @@ def parrot
   motto = "Squawk!"
 end
 
-def parrot
-  puts ("Pretty bird!")
-end
