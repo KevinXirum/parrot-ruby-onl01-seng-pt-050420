@@ -7,5 +7,5 @@ end
 
 def parrot
   puts "Squawk!"
-  motto 
+  motto = "Squawk!"
 end
